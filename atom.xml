@@ -6,7 +6,7 @@
   <link href="https://dumblog.top/atom.xml" rel="self"/>
   
   <link href="https://dumblog.top/"/>
-  <updated>2024-11-23T11:21:47.271Z</updated>
+  <updated>2025-01-01T11:33:15.940Z</updated>
   <id>https://dumblog.top/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>已是2025</title>
+    <link href="https://dumblog.top/2025/01/01/%E5%B7%B2%E6%98%AF2025/"/>
+    <id>https://dumblog.top/2025/01/01/%E5%B7%B2%E6%98%AF2025/</id>
+    <published>2025-01-01T11:28:45.000Z</published>
+    <updated>2025-01-01T11:33:15.940Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;各位新年好啊。&lt;/p&gt;
+&lt;p&gt;vivo50新年有好运！😜😜&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="站务" scheme="https://dumblog.top/categories/%E7%AB%99%E5%8A%A1/"/>
+    
+    
+    <category term="站务" scheme="https://dumblog.top/tags/%E7%AB%99%E5%8A%A1/"/>
+    
+    <category term="通知" scheme="https://dumblog.top/tags/%E9%80%9A%E7%9F%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>杂谈</title>
@@ -413,27 +435,6 @@
     
     
     <category term="站务" scheme="https://dumblog.top/tags/%E7%AB%99%E5%8A%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于博客服务器被黑的事情</title>
-    <link href="https://dumblog.top/2022/10/15/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%A2%AB%E9%BB%91%E7%9A%84%E4%BA%8B%E6%83%85/"/>
-    <id>https://dumblog.top/2022/10/15/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%A2%AB%E9%BB%91%E7%9A%84%E4%BA%8B%E6%83%85/</id>
-    <published>2022-10-15T09:32:24.000Z</published>
-    <updated>2024-04-13T03:25:14.246Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;2022年10月4日23时54分，我收到一封邮件。这件事就从这个邮件开始。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="站务" scheme="https://dumblog.top/categories/%E7%AB%99%E5%8A%A1/"/>
-    
-    
-    <category term="站务" scheme="https://dumblog.top/tags/%E7%AB%99%E5%8A%A1/"/>
-    
-    <category term="杂谈" scheme="https://dumblog.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
